@@ -14,6 +14,9 @@ Fig.1. Framework of proposed PTCD Method.
 - [Baidu Disk, Extraction code: 6c2e](https://pan.baidu.com/s/1u7gHjKtIGZXH3ykCX9APxw)
 
 # Citation
+
+This IGARSS2021 conference paper is not included in the IEEE or Google schoolor library for the time being, which will be included after a period of time. 
+
 If these codes and dataset are helpful for you, please cite this paper:
 
 **BibTex Format:**<br />
