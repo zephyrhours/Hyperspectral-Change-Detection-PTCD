@@ -5,7 +5,7 @@
 Fig.1. Framework of proposed PTCD Method.
 
 # Requirement
-**PMATLAB R2018a**
+**MATLAB R2018a**
 
 # Source
 **Paper Download:**
