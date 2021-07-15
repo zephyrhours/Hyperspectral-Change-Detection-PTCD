@@ -1,7 +1,7 @@
 # Hyperspectral-Change-Detection-PTCD
 **Paper: A Patch Tensor-based Change Detection Method for Hyperspectral Images**
 
-<img src="workflow.jpg" alt="Cover" width="70%"/>
+<img src="workflow.jpg" alt="Cover" width="90%"/>
 Fig.1. Framework of proposed PTCD Method.
 
 
