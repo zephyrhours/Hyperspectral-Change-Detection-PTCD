@@ -17,7 +17,7 @@ Fig.1. Framework of proposed PTCD Method.
 
 # Citation
 
-This IGARSS2021 conference paper is not included in the IEEE or Google schoolor library for the time being, which will be included after a period of time. 
+This IGARSS2021 conference paper, you can downlowad from IEEE explore. 
 
 If these codes and dataset are helpful for you, please cite this paper:
 
