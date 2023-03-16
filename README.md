@@ -7,6 +7,10 @@ Fig.1. Framework of proposed PTCD Method.
 # Prerequisites
 **MATLAB R2018a**
 
+**Note:**
+There may be problems when using Matlab 2016 for tensor processing. Please use 2018 and above version.
+
+
 # Source
 **Paper Download:**
 - [IGARSS 2021 Paper](https://drive.google.com/file/d/1M9cKwbDn8mbvd7VIx1CmWNKYnGnDm4pO/view?usp=sharing)
